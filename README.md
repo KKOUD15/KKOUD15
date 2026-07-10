@@ -2,9 +2,20 @@
 <h3 align="center">Élève Ingénieur en Génie Mécanique des Systèmes Industriels (GMSI) | CAO | Simulation | Fabrication | Production | Gestion de Projet | Amélioration continue | Recherche & Développement</h3>
 
 
+<h3 align="left">Langues et Outils :</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-E32526?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/CATIA_V5-0B5394?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA V5"/>
+  <img src="https://img.shields.io/badge/ANSYS_Fluent-F6A800?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Microsoft_Project-31AC26?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Project"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/GMAO-0052CC?style=for-the-badge" alt="GMAO"/>
+</p>
+
 - 📫 Adresse email: **koudaogokonkoboap1@gmail.com**
-
-
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
@@ -13,11 +24,5 @@
 <a <a href="https://instagram.com/koudaogo15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koudaogo15" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Langues et Outils :</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
-
-
 <h3 align="left">Telecharger mon cv :</h3>
-- 📄 Découvrez mon cv : [https://drive.google.com/drive/folders/1--l6tmIagGZSnbuCDyoYMC4RgNyoDnAi?usp=drive_link](https://drive.google.com/drive/folders/1--l6tmIagGZSnbuCDyoYMC4RgNyoDnAi?usp=drive_link)
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkoud15&show_icons=true&locale=en" alt="kkoud15" /></p>
+- 📄 Découvrez mon cv : (https://drive.google.com/drive/folders/1--l6tmIagGZSnbuCDyoYMC4RgNyoDnAi?usp=drive_link)
