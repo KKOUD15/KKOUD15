@@ -1,7 +1,9 @@
 <h1 align="center">Je suis KONKOBO Koudaogo</h1>
-<h3 align="center">Élève Ingénieur en Génie Mécanique des Systèmes Industriels (GMSI) 
-  
-  | CAO-DAO | Simulation | Fabrication | Gestion de Projet | Amélioration continue | Recherche & Développement</h3>
+<h3 align="center">
+  Élève Ingénieur en Génie Mécanique des Systèmes Industriels (GMSI) <br>
+  Université Hassan II de Casablanca | ENSET Mohammedia <br><br>
+  | CAO-DAO | Simulation | Fabrication | Production | Gestion de Projet | Amélioration continue | Recherche & Développement
+</h3>
 
 
 <h3 align="left">Langues et Outils :</h3>
